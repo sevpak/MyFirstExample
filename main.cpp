@@ -7,6 +7,7 @@ using std::endl;
 
 int main()
 {
+    cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
     cout << "Hi, please enter two whole numbers: ";
 
     int x,y;
